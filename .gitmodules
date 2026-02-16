@@ -1,0 +1,3 @@
+[submodule "w3ds"]
+	path = w3ds
+	url = https://github.com/nsergey82/w3ds.git
